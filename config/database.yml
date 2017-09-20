@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  username: rails
+  password: rails
+  database: devcampportfolio_development
+  host: localhost
+  pool: 5
